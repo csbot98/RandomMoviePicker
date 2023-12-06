@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MasodikPro</string>
+    <string name="mainTitle">Random Movie Picker</string>
+    <string name="chooseGenreString"><u>Kérem válasszon ki egy műfajt:</u></string>
+    <string name="chooseYearString"><u>Kérem válasszon évet:</u></string>
+    <string name="chooseRatingString"><u>Kérem válasszon értékelést:</u></string>
+    <string name="submitButton">Fogaskerekek beindítása...</string>
+    <string name="genre">Genre:</string>
+    <string name="movie_title">Movie Title</string>
+</resources>
