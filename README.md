@@ -1,7 +1,7 @@
 # RandomMoviePicker
 Egyetemi projekt a jobb jegy reményében. || Uni project for the better grades.
 
-# My GIF
+# Bemutató || Preview
 ![](https://github.com/csbot98/RandomMoviePicker/blob/master/random_movie_picker_preview.gif)
 
 HU:
